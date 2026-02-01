@@ -1,10 +1,10 @@
-# Hi, I’m Saurabh 👋
-Data Analyst • Turning data into actionable insights • SQL · Python · Pandas · Power BI
+# Hay, I’m Saurabh 👋
+Data Analyst • Turning data into actionable insights • SQL · Python · Pandas · Power BI  · Tableau  · AWS
 
 [![Website](https://img.shields.io/badge/portfolio-link-blue)](https://your-portfolio.example) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Saurabh-blue)](https://linkedin.com/in/yourprofile) 
 [![Kaggle](https://img.shields.io/badge/kaggle-profile-orange)](https://kaggle.com/yourprofile) 
-[![Email](https://img.shields.io/badge/email-you%40example.com-lightgrey)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/email-you%40example.com-lightgrey)](mailto:chandalesaurabh6@gmail.com)
 
 About
 - I’m a Data Analyst who cares about clean data, reproducible analysis, and clear storytelling.
