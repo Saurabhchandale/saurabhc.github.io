@@ -47,13 +47,13 @@ How to navigate my repos
   - If dashboards are included, instructions to view or deploy
 
 Want to see more?
-- Portfolio site: https://your-portfolio.example
-- Kaggle: https://kaggle.com/yourprofile
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: you@example.com
+- Portfolio site: https://github.com/Saurabhchandale/saurabhc.github.io
+- Kaggle: https://kaggle.com/Saurabhchandale
+- LinkedIn: https://www.linkedin.com/in/saurabh-chandale923/
+- Email: chandalesaurabh6@gmail.com
 
 Resume
-- Download: [Resume (PDF)](https://your-portfolio.example/resume.pdf)
+- Download: [Resume (PDF)](https://github.com/Saurabhchandale/MyPersonal_Portfolio)
 
 Small ask
 If you find my work useful, consider starring the repo — it helps my projects reach others who might benefit.
